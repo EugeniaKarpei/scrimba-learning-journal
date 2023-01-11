@@ -63,7 +63,7 @@ nav ul {
 /* ------- hero article ------- */
 
 .article-hero {
-    background-image: url('images/hero-sm.jpg');
+    background-image: url('/images/hero-sm.jpg');
     background-size: cover;
     color: white;
     padding: 20% 1.25em 1.565em;
